@@ -3,4 +3,4 @@ sympy
 numpy
 matplotlib
 plotly
-
+fpdf
