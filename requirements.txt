@@ -1,2 +1,6 @@
 streamlit
 sympy
+numpy
+matplotlib
+plotly
+
